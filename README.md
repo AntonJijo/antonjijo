@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.celestial_spirit._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-j-678b302b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anton_jijo)
-[![Hackerrank ](https://img.shields.io/badge/Hackerrank-0A0A0A?style=flat&logo=Hackerrank&link=https://www.hackerrank.com/profile/antonjijo2018)](https://www.hackerrank.com/profile/antonjijo2018)
+[![Hackerrank ](https://img.shields.io/badge/Hackerrank-0A0A0A?style=plastic&logo=Hackerrank&link=https://www.hackerrank.com/profile/antonjijo2018)](https://www.hackerrank.com/profile/antonjijo2018)
 
 
 # 💻 Tech Stack:
