@@ -11,7 +11,7 @@
 # Contact me:
 
 - <img align=center width="15" height="15" src="https://img.icons8.com/material-rounded/FFFFFF/new-post.png" alt="new-post"/> Email: **antonjijo2018@outlook.com**
-- <img width="15" height="15" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> <a href=https://www.linkedin.com/in/anton-j-678b302b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android app >**LinkedIn**</a>
+- <img width="15" height="15" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/> <a href=https://www.linkedin.com/in/anton-j-678b302b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android app>**LinkedIn**</a>
 - <img align=center width="15.5" height="15.5" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/> <a href=https://instagram.com/_.celestial_spirit._>**Instagram**</a>
 ---
 [![](https://visitcount.itsvg.in/api?id=antonjijo&icon=4&color=3)](https://visitcount.itsvg.in)
