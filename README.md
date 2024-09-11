@@ -10,7 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=antonjijo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # Contact me:
 
-- Email: **antonjijo2018@outlook.com**<img width="10" height="10" src="https://img.icons8.com/material-rounded/FFFFFF/new-post.png" alt="new-post"/>
+- Email: **antonjijo2018@outlook.com**<img width="15" height="15" src="https://img.icons8.com/material-rounded/FFFFFF/new-post.png" alt="new-post"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=antonjijo&icon=4&color=3)](https://visitcount.itsvg.in)
