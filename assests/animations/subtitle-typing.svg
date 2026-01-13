@@ -1,0 +1,76 @@
+<svg width="860" height="36" viewBox="0 0 860 36"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Typing mask -->
+    <mask id="typeMask">
+      <rect x="0" y="0" width="0" height="36" fill="white">
+        <animate
+          attributeName="width"
+          values="
+            0;860;860;0;
+            0;860;860;0;
+            0;860;860;0"
+          keyTimes="
+            0;0.15;0.30;0.35;
+            0.35;0.50;0.65;0.70;
+            0.70;0.85;1;1"
+          dur="12s"
+          repeatCount="indefinite"/>
+      </rect>
+    </mask>
+
+    <!-- Line switching -->
+    <animateTransform
+      xlink:href="#lines"
+      attributeName="transform"
+      type="translate"
+      values="
+        0 0;
+        0 0;
+        0 0;
+        0 -36;
+        0 -36;
+        0 -36;
+        0 -72;
+        0 -72;
+        0 -72"
+      keyTimes="
+        0;0.30;0.35;
+        0.35;0.65;0.70;
+        0.70;0.95;1"
+      dur="12s"
+      repeatCount="indefinite"/>
+  </defs>
+
+  <!-- Text container -->
+  <g id="lines" mask="url(#typeMask)">
+    <text x="430" y="26"
+          text-anchor="middle"
+          font-family="Inter, Arial"
+          font-size="18"
+          font-weight="600"
+          fill="#C77DFF">
+      AI-Assisted Development &amp; Solution Thinking
+    </text>
+
+    <text x="430" y="62"
+          text-anchor="middle"
+          font-family="Inter, Arial"
+          font-size="18"
+          font-weight="600"
+          fill="#C77DFF">
+      Concepts First → AI Execution → Learning
+    </text>
+
+    <text x="430" y="98"
+          text-anchor="middle"
+          font-family="Inter, Arial"
+          font-size="18"
+          font-weight="600"
+          fill="#C77DFF">
+      Engineer by practice, not by syntax
+    </text>
+  </g>
+
+</svg>
