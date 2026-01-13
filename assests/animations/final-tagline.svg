@@ -1,0 +1,28 @@
+<svg width="920" height="36" viewBox="0 0 920 36"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Reveal mask -->
+    <mask id="taglineMask">
+      <rect x="0" y="0" width="0" height="36" fill="white">
+        <animate
+          attributeName="width"
+          from="0"
+          to="920"
+          dur="1.2s"
+          fill="freeze"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <text x="460" y="26"
+        text-anchor="middle"
+        font-family="Inter, Arial"
+        font-size="18"
+        font-weight="800"
+        fill="#C77DFF"
+        mask="url(#taglineMask)">
+    Service Desk Intern by role · AI-Native Engineer by mindset
+  </text>
+
+</svg>
