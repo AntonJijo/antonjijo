@@ -4,7 +4,7 @@
   <!-- background -->
   <rect x="0" y="0" width="900" height="80" fill="#0d1117"/>
 
-  <!-- purple bar -->
+  <!-- purple accent bar -->
   <rect x="0" y="0" width="4" height="80" fill="#8B00FF"/>
 
   <!-- text -->
@@ -12,6 +12,11 @@
         font-family="Arial"
         font-size="16"
         fill="#C9D1D9">
-    I operate as a solution thinker and integrator, not a syntax-only coder.
+
+    I operate as a
+    <tspan font-weight="700">
+      solution thinker and integrator
+    </tspan>,
+    not a syntax-only coder.
   </text>
 </svg>
