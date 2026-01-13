@@ -1,17 +1,17 @@
-<svg width="900" height="80" viewBox="0 0 900 80"
+<svg viewBox="0 0 900 80"
      xmlns="http://www.w3.org/2000/svg">
 
   <!-- background -->
-  <rect x="0" y="0" width="900" height="80" rx="6" fill="#0d1117"/>
+  <rect x="0" y="0" width="900" height="80" fill="#0d1117"/>
 
   <!-- purple bar -->
-  <rect x="0" y="0" width="6" height="80" fill="#8B00FF"/>
+  <rect x="0" y="0" width="4" height="80" fill="#8B00FF"/>
 
   <!-- text -->
-  <text x="24" y="48"
-        font-family="Inter, Arial"
+  <text x="20" y="48"
+        font-family="Arial"
         font-size="16"
         fill="#C9D1D9">
-    This role is operational in nature and separate from my independent AI & development work.
+    This role is operational in nature and separate from my independent AI &amp; development work.
   </text>
 </svg>
