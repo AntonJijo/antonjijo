@@ -1,0 +1,53 @@
+<svg width="100%" height="120" viewBox="0 0 1200 120"
+     xmlns="http://www.w3.org/2000/svg"
+     preserveAspectRatio="none">
+
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="waveBack" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#240046"/>
+      <stop offset="100%" stop-color="#5A189A"/>
+    </linearGradient>
+
+    <linearGradient id="waveMid" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5A189A"/>
+      <stop offset="100%" stop-color="#9D4EDD"/>
+    </linearGradient>
+
+    <linearGradient id="waveFront" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9D4EDD"/>
+      <stop offset="100%" stop-color="#C77DFF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Back wave (slow, deep) -->
+  <path fill="url(#waveBack)" opacity="0.9">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="
+        M0 70 C150 50 300 90 450 75 C600 60 750 85 900 75 C1050 65 1150 80 1200 70 V120 H0 Z;
+        M0 75 C150 90 300 55 450 70 C600 85 750 60 900 70 C1050 80 1150 60 1200 75 V120 H0 Z;
+        M0 70 C150 50 300 90 450 75 C600 60 750 85 900 75 C1050 65 1150 80 1200 70 V120 H0 Z
+      "/>
+  </path>
+
+  <!-- Middle wave (medium speed) -->
+  <path fill="url(#waveMid)" opacity="0.75">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0 80 C180 65 360 95 540 80 C720 65 900 95 1080 80 C1140 75 1180 78 1200 80 V120 H0 Z;
+        M0 75 C180 95 360 65 540 75 C720 95 900 65 1080 75 C1140 85 1180 70 1200 75 V120 H0 Z;
+        M0 80 C180 65 360 95 540 80 C720 65 900 95 1080 80 C1140 75 1180 78 1200 80 V120 H0 Z
+      "/>
+  </path>
+
+  <!-- Front wave (fast, neon) -->
+  <path fill="url(#waveFront)" opacity="0.85">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="
+        M0 90 C200 80 400 105 600 90 C800 75 1000 105 1200 90 V120 H0 Z;
+        M0 85 C200 105 400 80 600 85 C800 105 1000 80 1200 85 V120 H0 Z;
+        M0 90 C200 80 400 105 600 90 C800 75 1000 105 1200 90 V120 H0 Z
+      "/>
+  </path>
+
+</svg>
