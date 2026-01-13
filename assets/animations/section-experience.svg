@@ -1,0 +1,28 @@
+<svg width="880" height="32" viewBox="0 0 880 32"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Reveal mask -->
+    <mask id="revealMask">
+      <rect x="0" y="0" width="0" height="32" fill="white">
+        <animate
+          attributeName="width"
+          from="0"
+          to="880"
+          dur="2s"
+          fill="freeze"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <text x="440" y="22"
+        text-anchor="middle"
+        font-family="Inter, Arial"
+        font-size="18"
+        font-weight="800"
+        fill="#C77DFF"
+        mask="url(#revealMask)">
+    ──────── EXPERIENCE ────────
+  </text>
+
+</svg>
