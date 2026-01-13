@@ -25,3 +25,27 @@
   </text>
 
 </svg>
+
+<svg width="460" height="48" viewBox="0 0 460 48"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <mask id="typing-mask">
+      <rect x="0" y="0" width="0" height="48" fill="white">
+        <animate
+          attributeName="width"
+          from="0"
+          to="460"
+          dur="2.2s"
+          fill="freeze" />
+      </rect>
+    </mask>
+  </defs>
+
+  <g mask="url(#typing-mask)" fill="#8B00FF">
+    <path d="M12.3 34.8L..." />
+    <path d="M48.7 12.1L..." />
+    <!-- many paths, this is normal -->
+  </g>
+
+</svg>
