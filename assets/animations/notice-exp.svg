@@ -4,7 +4,7 @@
   <!-- background -->
   <rect x="0" y="0" width="900" height="80" fill="#0d1117"/>
 
-  <!-- purple bar -->
+  <!-- purple accent bar -->
   <rect x="0" y="0" width="4" height="80" fill="#8B00FF"/>
 
   <!-- text -->
@@ -12,6 +12,10 @@
         font-family="Arial"
         font-size="16"
         fill="#C9D1D9">
-    This role is operational in nature and separate from my independent AI &amp; development work.
+
+    This role is operational in nature and
+    <tspan font-weight="700">
+      separate from my independent AI &amp; development work
+    </tspan>.
   </text>
 </svg>
