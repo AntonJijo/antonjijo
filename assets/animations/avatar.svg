@@ -1,27 +1,6 @@
-<svg width="140" height="140" viewBox="0 0 140 140"
-     xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <!-- Glow -->
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="8" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <!-- Circle mask -->
-    <clipPath id="circle">
-      <circle cx="70" cy="70" r="55"/>
-    </clipPath>
-  </defs>
-
-  <!-- Avatar image -->
-  <image
-    href="https://avatars.githubusercontent.com/u/125327493?v=4"
-    x="15" y="15"
-    width="110" height="110"
-    clip-path="url(#circle)"
-    filter="url(#glow)" />
-</svg>
+<image
+  href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA..."
+  x="15" y="15"
+  width="110" height="110"
+  clip-path="url(#circle)"
+  filter="url(#glow)" />
