@@ -1,0 +1,14 @@
+<svg width="460" height="48" viewBox="0 0 460 48" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="36"
+        font-family="Montserrat, Arial"
+        font-size="36"
+        font-weight="700"
+        fill="#8B00FF"
+        opacity="0">
+    Anton Jijo J A
+    <animate attributeName="opacity"
+             from="0" to="1"
+             dur="1.2s"
+             fill="freeze"/>
+  </text>
+</svg>
