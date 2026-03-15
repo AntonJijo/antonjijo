@@ -1,16 +1,24 @@
-<div align="center"><table>
+<div align="center">
+<table>
 <tr>
-<td width="120" align="center" style="padding-right:16px;">
+<td width="130" align="center">
 <img src="./assets/animations/avatar.svg" />
-</td><td align="left">
-<img src="./assets/animations/name.svg" style="display:block;" /><b>Service Desk Intern @ HCLTech</b><br>
-AI-Native Learner · Open-Source Researcher · Vibe Coder
-
+</td>
+<td align="left" style="padding-left:16px;">
+<h2><img src="./assets/animations/name.svg" style="vertical-align:middle;" /></h2>
+<p style="margin:6px 0 2px 0;"><b>Service Desk Intern @ HCLTech</b></p>
+<p style="margin:0; font-size:0.85em; color:gray;">AI-Native Learner &nbsp;·&nbsp; Open-Source Researcher &nbsp;·&nbsp; Vibe Coder</p>
 </td>
 </tr>
-</table><br><img src="./assets/animations/subtitle-typing.svg" /></div>---
+</table>
 
-Profile
+
+<h2><img src="./assets/animations/subtitle-typing.svg" /></h2>
+
+</div>
+
+
+# Profile
 
 Service Desk Intern at HCLTech with a strong independent focus on
 Artificial Intelligence, Web Development, and open-source driven innovation.
@@ -21,9 +29,9 @@ I identify as a vibe coder: curious, adaptive, and continuously learning beyond 
 
 ---
 
-Experience
+# Experience
 
-HCLTech — Service Desk Intern
+**HCLTech — Service Desk Intern**
 
 - Tier-1 enterprise technical support
 - Incident handling, ticket triage, SLA-based resolution
@@ -32,7 +40,7 @@ HCLTech — Service Desk Intern
 
 ---
 
-Development Workflow
+# Development Workflow
 
 I may not manually write every line of code from scratch, but I clearly understand:
 
@@ -42,27 +50,45 @@ I may not manually write every line of code from scratch, but I clearly understa
 
 I use AI as an execution accelerator, not a replacement for thinking.
 
-Workflow
+**Workflow**
 
-- Define requirements & outcomes
-- Select tools, models, and approaches
-- Generate with AI
-- Review, validate, and iterate
-- Learn new technologies only when the project demands it
+1. Define requirements & outcomes
+2. Select tools, models, and approaches
+3. Generate with AI
+4. Review, validate, and iterate
+5. Learn new technologies only when the project demands it
 
 ---
 
-Technology Stack
+# Technology Stack
 
-Languages
+## Languages
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,kotlin,powershell&perline=7"/></p>Frameworks & Libraries
+<div align="center">
 
-<p align="center"><img src="https://skillicons.dev/icons?i=react,flask,fastapi,electron,tailwind&perline=5"/></p>Tools & Platforms
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,kotlin,powershell&perline=7" />
 
-<p align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,canva&perline=6"/></p>---
+</div>
 
-Philosophy
+## Frameworks & Libraries
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,flask,fastapi,electron,tailwind&perline=5" />
+
+</div>
+
+## Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,canva&perline=6" />
+
+</div>
+
+---
+
+# Philosophy
 
 - Concept > Code
 - AI as leverage, not dependency
@@ -72,20 +98,20 @@ Philosophy
 
 ---
 
-Connect
+# Connect
 
-Email
-antonjijo2018@gmail.com
+| Platform | Link |
+|----------|------|
+| Email | antonjijo2018@gmail.com |
+| LinkedIn | [linkedin.com/in/antonjijo](https://www.linkedin.com/in/antonjijo) |
+| GitHub | [github.com/antonjijo](https://github.com/antonjijo) |
+| Instagram | [instagram.com/.celestial_spirit.](https://instagram.com/.celestial_spirit.) |
 
-LinkedIn
-https://www.linkedin.com/in/antonjijo
 
-GitHub
-https://github.com/antonjijo
+<div align="center">
 
-Instagram
-https://instagram.com/.celestial_spirit.
+<img src="./assets/animations/final-tagline.svg" />
 
----
+<img src="./assets/animations/footer-wave.svg" style="width:100%; display:block;" />
 
-<div align="center"><img src="./assets/animations/final-tagline.svg" /></div><div align="center"><img src="./assets/animations/footer-wave.svg" style="width:100%; display:block;" /></div>
+</div>
