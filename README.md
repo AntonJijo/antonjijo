@@ -56,11 +56,11 @@ Technology Stack
 
 Languages
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,kotlin,powershell&perline=7" /></div><br>Frameworks & Libraries
+<p align="center"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,kotlin,powershell&perline=7"/></p>Frameworks & Libraries
 
-<div align="center"><img src="https://skillicons.dev/icons?i=react,flask,fastapi,electron,tailwind&perline=5" /></div><br>Tools & Platforms
+<p align="center"><img src="https://skillicons.dev/icons?i=react,flask,fastapi,electron,tailwind&perline=5"/></p>Tools & Platforms
 
-<div align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,canva&perline=6" /></div>---
+<p align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,canva&perline=6"/></p>---
 
 Philosophy
 
