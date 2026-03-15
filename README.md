@@ -2,17 +2,19 @@
 <tr>
 <td width="120" align="center" style="padding-right:16px;">
 <img src="./assets/animations/avatar.svg" />
-</td><td align="left"><h1 style="margin:0; line-height:1.1;">
+</td><td align="left">
+<h1 style="margin:0; line-height:1.1;">
 <img src="./assets/animations/name.svg" style="display:block;" />
 </h1><h3 style="margin:6px 0 4px 0;">
 Service Desk Intern @ HCLTech
 </h3><b>
 AI-Native Learner · Open-Source Researcher · Vibe Coder
-</b></td>
+</b>
+</td>
 </tr>
-</table>
+</table><br/><img src="./assets/animations/subtitle-typing.svg" /></div>---
 
-#Profile
+Profile
 
 Service Desk Intern at HCLTech with a strong independent focus on
 Artificial Intelligence, Web Development, and open-source driven innovation.
@@ -21,8 +23,9 @@ I operate with a concept-first mindset — understanding what needs to be built 
 
 I identify as a vibe coder: curious, adaptive, and continuously learning beyond formal role boundaries.
 
+---
 
-#Experience
+Experience
 
 HCLTech — Service Desk Intern
 
@@ -31,8 +34,9 @@ HCLTech — Service Desk Intern
 - ITSM processes and enterprise tooling
 - Exposure to real-world IT operations and system reliability
 
+---
 
-#Development Workflow
+Development Workflow
 
 I may not manually write every line of code from scratch, but I clearly understand:
 
@@ -42,7 +46,7 @@ I may not manually write every line of code from scratch, but I clearly understa
 
 I use AI as an execution accelerator, not a replacement for thinking.
 
-#Workflow
+Workflow
 
 - Define requirements & outcomes
 - Select tools, models, and approaches
@@ -50,23 +54,19 @@ I use AI as an execution accelerator, not a replacement for thinking.
 - Review, validate, and iterate
 - Learn new technologies only when the project demands it
 
+---
 
+Technology Stack
 
-#Technology Stack
+Languages
 
-##Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,kotlin,powershell&theme=dark" /><br>Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,kotlin,powershell&theme=dark" /><br><br>
-
-##Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react,flask,fastapi,electron,tailwind&theme=dark" /><br><br>
-
-##Tools & Platforms
+<img src="https://skillicons.dev/icons?i=react,flask,fastapi,electron,tailwind&theme=dark" /><br>Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman&theme=dark" />---
 
-#Philosophy
+Philosophy
 
 - Concept > Code
 - AI as leverage, not dependency
@@ -74,8 +74,9 @@ I use AI as an execution accelerator, not a replacement for thinking.
 - Reuse → adapt → improve
 - Clean, scalable solutions
 
+---
 
-#Connect
+Connect
 
 Email
 antonjijo2018@gmail.com
@@ -89,6 +90,7 @@ https://github.com/antonjijo
 Instagram
 https://instagram.com/.celestial_spirit.
 
+---
 
 <div align="center">
 <img src="./assets/animations/final-tagline.svg" />
