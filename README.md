@@ -10,9 +10,9 @@ Service Desk Intern @ HCLTech
 AI-Native Learner · Open-Source Researcher · Vibe Coder
 </b></td>
 </tr>
-</table><br/><img src="./assets/animations/subtitle-typing.svg" /></div>---
+</table>
 
-Profile
+#Profile
 
 Service Desk Intern at HCLTech with a strong independent focus on
 Artificial Intelligence, Web Development, and open-source driven innovation.
@@ -21,9 +21,8 @@ I operate with a concept-first mindset — understanding what needs to be built 
 
 I identify as a vibe coder: curious, adaptive, and continuously learning beyond formal role boundaries.
 
----
 
-Experience
+#Experience
 
 HCLTech — Service Desk Intern
 
@@ -32,9 +31,8 @@ HCLTech — Service Desk Intern
 - ITSM processes and enterprise tooling
 - Exposure to real-world IT operations and system reliability
 
-<br><img src="./assets/animations/notice-operational.svg" />---
 
-Development Workflow
+#Development Workflow
 
 I may not manually write every line of code from scratch, but I clearly understand:
 
@@ -44,7 +42,7 @@ I may not manually write every line of code from scratch, but I clearly understa
 
 I use AI as an execution accelerator, not a replacement for thinking.
 
-Workflow
+#Workflow
 
 - Define requirements & outcomes
 - Select tools, models, and approaches
@@ -52,23 +50,23 @@ Workflow
 - Review, validate, and iterate
 - Learn new technologies only when the project demands it
 
-<br><img src="./assets/animations/notice-solution.svg" />---
 
-Technology Stack
 
-Languages
+#Technology Stack
+
+##Languages
 
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,kotlin,powershell&theme=dark" /><br><br>
 
-Frameworks & Libraries
+##Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,flask,fastapi,electron,tailwind&theme=dark" /><br><br>
+<img src="https://skillicons.dev/icons?i=react,flask,fastapi,electron,tailwind&theme=dark" /><br><br>
 
-Tools & Platforms
+##Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,canva&theme=dark" />---
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman&theme=dark" />---
 
-Philosophy
+#Philosophy
 
 - Concept > Code
 - AI as leverage, not dependency
@@ -76,9 +74,8 @@ Philosophy
 - Reuse → adapt → improve
 - Clean, scalable solutions
 
----
 
-Connect
+#Connect
 
 Email
 antonjijo2018@gmail.com
@@ -92,7 +89,6 @@ https://github.com/antonjijo
 Instagram
 https://instagram.com/.celestial_spirit.
 
----
 
 <div align="center">
 <img src="./assets/animations/final-tagline.svg" />
