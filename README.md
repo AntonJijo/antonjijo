@@ -1,13 +1,12 @@
-
 <div align="center"><table>
 <tr>
 <td width="120" align="center" style="padding-right:16px;">
 <img src="./assets/animations/avatar.svg" />
 </td><td align="left"><h1 style="margin:0; line-height:1.1;">
 <img src="./assets/animations/name.svg" style="display:block;" />
-</h1><h4 style="margin:6px 0 4px 0;">
+</h1><h3 style="margin:6px 0 4px 0;">
 Service Desk Intern @ HCLTech
-</h4><b>
+</h3><b>
 AI-Native Learner · Open-Source Researcher · Vibe Coder
 </b></td>
 </tr>
@@ -16,7 +15,7 @@ AI-Native Learner · Open-Source Researcher · Vibe Coder
 Profile
 
 Service Desk Intern at HCLTech with a strong independent focus on
-Artificial Intelligence, Web Development, and open-source-driven innovation.
+Artificial Intelligence, Web Development, and open-source driven innovation.
 
 I operate with a concept-first mindset — understanding what needs to be built and why, then using AI tools and open-source resources to execute, validate, and iterate efficiently.
 
@@ -33,7 +32,7 @@ HCLTech — Service Desk Intern
 - ITSM processes and enterprise tooling
 - Exposure to real-world IT operations and system reliability
 
-<img src="./assets/animations/notice-operational.svg" />---
+<br><img src="./assets/animations/notice-operational.svg" />---
 
 Development Workflow
 
@@ -53,15 +52,19 @@ Workflow
 - Review, validate, and iterate
 - Learn new technologies only when the project demands it
 
-<img src="./assets/animations/notice-solution.svg" />---
+<br><img src="./assets/animations/notice-solution.svg" />---
 
 Technology Stack
 
 Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,powershell&theme=dark" />Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,kotlin,powershell&theme=dark" /><br><br>
 
-<img src="https://skillicons.dev/icons?i=flask,electron,tailwind&theme=dark" />Tools & Platforms
+Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,flask,fastapi,electron,tailwind&theme=dark" /><br><br>
+
+Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,canva&theme=dark" />---
 
