@@ -58,13 +58,17 @@ Workflow
 
 Technology Stack
 
-Languages
+<div align="center">Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,kotlin,powershell&theme=dark" /><br>Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,kotlin,powershell&theme=dark" /><br><br>
 
-<img src="https://skillicons.dev/icons?i=react,flask,fastapi,electron,tailwind&theme=dark" /><br>Tools & Platforms
+Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman&theme=dark" />---
+<img src="https://skillicons.dev/icons?i=react,flask,fastapi,electron,tailwind&theme=dark" /><br><br>
+
+Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,canva&theme=dark" /></div>---
 
 Philosophy
 
