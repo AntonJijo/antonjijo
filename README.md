@@ -3,16 +3,12 @@
 <td width="120" align="center" style="padding-right:16px;">
 <img src="./assets/animations/avatar.svg" />
 </td><td align="left">
-<h1 style="margin:0; line-height:1.1;">
-<img src="./assets/animations/name.svg" style="display:block;" />
-</h1><h3 style="margin:6px 0 4px 0;">
-Service Desk Intern @ HCLTech
-</h3><b>
+<img src="./assets/animations/name.svg" style="display:block;" /><b>Service Desk Intern @ HCLTech</b><br>
 AI-Native Learner · Open-Source Researcher · Vibe Coder
-</b>
+
 </td>
 </tr>
-</table><br/><img src="./assets/animations/subtitle-typing.svg" /></div>---
+</table><br><img src="./assets/animations/subtitle-typing.svg" /></div>---
 
 Profile
 
@@ -58,17 +54,13 @@ Workflow
 
 Technology Stack
 
-<div align="center">Languages
+Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,kotlin,powershell&theme=dark" /><br><br>
+<div align="center"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,kotlin,powershell&perline=7" /></div><br>Frameworks & Libraries
 
-Frameworks & Libraries
+<div align="center"><img src="https://skillicons.dev/icons?i=react,flask,fastapi,electron,tailwind&perline=5" /></div><br>Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=react,flask,fastapi,electron,tailwind&theme=dark" /><br><br>
-
-Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,canva&theme=dark" /></div>---
+<div align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,canva&perline=6" /></div>---
 
 Philosophy
 
@@ -96,8 +88,4 @@ https://instagram.com/.celestial_spirit.
 
 ---
 
-<div align="center">
-<img src="./assets/animations/final-tagline.svg" />
-</div><div align="center">
-<img src="./assets/animations/footer-wave.svg" style="width:100%; display:block;" />
-</div>
+<div align="center"><img src="./assets/animations/final-tagline.svg" /></div><div align="center"><img src="./assets/animations/footer-wave.svg" style="width:100%; display:block;" /></div>
