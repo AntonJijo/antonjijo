@@ -33,11 +33,11 @@ I identify as a vibe coder: curious, adaptive, and continuously learning beyond 
 
 **HCLTech — Intern**
 
-- Enterprise technical support exposure
-- Incident handling and ticket triage
-- Understanding SLA-based workflows
-- Exposure to ITSM processes and enterprise tooling
-- Hands-on experience with real-world IT operations and system reliability
+- Exposure to enterprise IT environments and operational workflows
+- Understanding of system reliability, infrastructure, and service continuity
+- Hands-on experience with enterprise tools and process-driven environments
+- Observed and contributed to real-world problem identification and resolution
+- Gained practical insight into how large-scale systems are monitored and maintained 
 
 ---
 
