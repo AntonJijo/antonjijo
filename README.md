@@ -6,7 +6,7 @@
 </td>
 <td align="left" style="padding-left:16px;">
 <h2><img src="./assets/animations/name.svg" style="vertical-align:middle;" /></h2>
-<p style="margin:6px 0 2px 0;"><b>Service Desk Intern @ HCLTech</b></p>
+<p style="margin:6px 0 2px 0;"><b>Intern @ HCLTech</b></p>
 <p style="margin:0; font-size:0.85em; color:gray;">AI-Native Learner &nbsp;·&nbsp; Open-Source Researcher &nbsp;·&nbsp; Vibe Coder</p>
 </td>
 </tr>
@@ -20,7 +20,7 @@
 
 # Profile
 
-Service Desk Intern at HCLTech with a strong independent focus on
+Intern at HCLTech with a strong independent focus on
 Artificial Intelligence, Web Development, and open-source driven innovation.
 
 I operate with a concept-first mindset — understanding what needs to be built and why, then using AI tools and open-source resources to execute, validate, and iterate efficiently.
@@ -31,12 +31,13 @@ I identify as a vibe coder: curious, adaptive, and continuously learning beyond 
 
 # Experience
 
-**HCLTech — Service Desk Intern**
+**HCLTech — Intern**
 
-- Tier-1 enterprise technical support
-- Incident handling, ticket triage, SLA-based resolution
-- ITSM processes and enterprise tooling
-- Exposure to real-world IT operations and system reliability
+- Enterprise technical support exposure
+- Incident handling and ticket triage
+- Understanding SLA-based workflows
+- Exposure to ITSM processes and enterprise tooling
+- Hands-on experience with real-world IT operations and system reliability
 
 ---
 
