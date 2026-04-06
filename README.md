@@ -16,8 +16,7 @@
 <h2><img src="./assets/animations/subtitle-typing.svg" /></h2>
 
 </div>
-
-
+ 
 # Profile
 
 Intern at HCLTech with a strong independent focus on
@@ -107,7 +106,6 @@ I use AI as an execution accelerator, not a replacement for thinking.
 | LinkedIn | [linkedin.com/in/antonjijo](https://www.linkedin.com/in/antonjijo) |
 | GitHub | [github.com/antonjijo](https://github.com/antonjijo) |
 | Instagram | [instagram.com/.celestial_spirit.](https://instagram.com/.celestial_spirit.) |
-
 
 <div align="center">
 
